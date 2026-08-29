@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Gaming Analysis Dashboard",
+  "description": "A single-page web app that displays real-time gaming data, computes short-term predictions using EMA, and provides automated analysis and suggestions in a clean bar chart format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
